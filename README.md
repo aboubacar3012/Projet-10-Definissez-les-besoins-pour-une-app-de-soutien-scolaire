@@ -28,7 +28,7 @@ Il faut définir les besoins du client Learn@Home, avant de démarrer la concept
 
 ### Diagrammes de cas d'usage
 
-Il y a 5 [Diagrammes de cas d'usage](/Aboubacar_Diallo_1_diagramme_cas_usage.pdf) pour ce projet.
+Il y a 5 [Diagrammes de cas d'usage](Aboubacar_Diallo_1_diagramme_cas_usage.pdf) pour ce projet.
 
 ### Users stories
 
@@ -38,9 +38,9 @@ On trouve 15 [Users stories](Aboubacar_Diallo_2_user_stories.pdf) pour ce projet
 
 Les maquettes sont disponibles sur [Figma](https://www.figma.com/design/2PbRgW22vTxjRmt1uq40qU/Maquettes-Projet-10---Learn%40Home?node-id=0-1&node-type=canvas&t=7i70P2b3JRbWefND-0) :
 
-- [Aperçu de la page de connexion en Desktop](/conexion.png)
-- [Aperçu de la page Chat Eleve](/chatstudent.png)
-- [Aperçu de la page Tableau de bord](/dashboard.png)
+- [Aperçu de la page de connexion en Desktop](conexion.png)
+- [Aperçu de la page Chat Eleve](chatstudent.png)
+- [Aperçu de la page Tableau de bord](dashboard.png)
 
 ### Kanban
 
